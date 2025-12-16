@@ -1,5 +1,60 @@
-# 💫 About Me:
-- ⭐ 5-Star Gold SQL Coder on HackerRank  <br>- 🐍 Python ⭐⭐⭐ | C ⭐⭐⭐(and growing every day!)  <br>- 💻 Experience with Python, Java, C, SQL <br>- 🎯 Interested in AI, ML, Data, and Problem-Solving<br><br>🎨 Beyond Code  <br><br>When I’m not coding, I enjoy creating digital designs ✨  <br>From project cover pages to event creatives, I love blending  <br>design + technology to tell better stories.
+# Hi there, I'm Atherva Srivastava 👋🏻  
+
+🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
+📍 Symbiosis Institute of Technology, Pune  
+
+💡 I enjoy turning **complex ideas into simple, meaningful solutions**  
+🤝 Passionate about **collaboration, learning, and tech for social good**
+
+---
+
+## 🚀 About Me  
+
+- ⭐ **5-Star Gold SQL Coder** on HackerRank  
+- 🐍 **Python ⭐⭐⭐ | C ⭐⭐⭐** (and growing every day!)  
+- 💻 Experience with **Python, Java, C, SQL**  
+- 🎯 Interested in **AI, ML, Data, and Problem-Solving**  
+
+I love working on real-world problems and explaining tricky concepts through  
+**hands-on workshops, collaborative sessions, and peer learning**.
+
+---
+
+## 🧠 What I Do  
+
+- 🔍 Build practical solutions using **AI & ML concepts**  
+- 📊 Work with **data, logic, and algorithms**  
+- 🧩 Break down complex problems into simple, elegant ideas  
+- 🧑‍🤝‍🧑 Contribute as a **team member, volunteer, or leader**
+
+---
+
+## 🎨 Beyond Code  
+
+When I’m not coding, I enjoy creating **digital designs** ✨  
+From **project cover pages** to **event creatives**, I love blending  
+**design + technology** to tell better stories.
+
+---
+
+## 🌱 Currently Growing In  
+
+- Advanced **Machine Learning concepts**  
+- **Real-world AI applications**  
+- Open-source contributions  
+- Community-driven tech initiatives  
+
+---
+
+## 🤝 Let’s Connect  
+
+💬 Always open to discussions on **AI, ML, Data, Coding, or Learning Together**  
+🌍 Looking to collaborate on **exciting projects & social-impact tech**
+
+> _“Learning grows best when shared.”_
+
+⭐ Feel free to explore my repositories and connect!
+
 
 
 ## 🌐 Socials:
