@@ -2,8 +2,6 @@
 
 🎓 **B.Tech in Artificial Intelligence & Machine Learning**  
 📍 Symbiosis Institute of Technology, Pune  
-
-💡 I enjoy turning **complex ideas into simple, meaningful solutions**  
 🤝 Passionate about **collaboration, learning, and tech for social good**
 
 ---
