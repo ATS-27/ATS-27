@@ -1,5 +1,15 @@
 #  About Me:
-B.Tech in Artificial Intelligence & Machine Learning<br>Symbiosis Institute of Technology, Pune<br><br>I am passionate about collaboration, continuous learning, and building technology that creates real-world impact. I enjoy solving practical problems and simplifying complex concepts through collaborative and hands-on technical work.
+🎓 B.Tech in Artificial Intelligence & Machine Learning<br>Symbiosis Institute of Technology, Pune<br><br>I am passionate about collaboration, continuous learning, and building technology that creates real-world impact. I am also into cybersecurity, trying to secure things ethically ;)
+
+## Currently Developing Skills In
+
+- Advanced Machine Learning concepts  
+- Real-world AI applications  
+- Open-source contributions
+
+## Beyond Coding
+
+Apart from coding, I work on digital design projects, including project cover pages and event creatives. I enjoy combining design and technology to communicate ideas effectively.
 
 
 ## 🌐 Socials:
